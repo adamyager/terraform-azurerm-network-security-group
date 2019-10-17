@@ -170,4 +170,3 @@ contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additio
 ## License
 
 [MIT](LICENSE)
-"# terraform-azurerm-network-security-group" 
